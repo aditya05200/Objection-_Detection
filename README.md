@@ -27,3 +27,9 @@ This repository demonstrates real-time object detection using the YOLOv4-Tiny mo
 -> Adding support for different pre-trained models.
 -> Implementing additional features like object tracking or counting.
 -> Improving the code documentation and readability.
+
+## Output
+![image](https://github.com/aditya05200/Objection-_Detection/assets/102588012/b9a57aa3-1513-4f75-974d-8be6c07a7eae)
+![image](https://github.com/aditya05200/Objection-_Detection/assets/102588012/c5aca8d8-c0a3-4ac5-94d5-a0cf12039ecf)
+
+
